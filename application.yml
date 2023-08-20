@@ -1,6 +1,8 @@
 spring:
   application:
     name: Config-Default
+server:
+  port: 7777
 eureka:
   instance:
     prefer-ip-address: true
