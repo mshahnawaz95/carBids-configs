@@ -1,8 +1,8 @@
 spring:
   application:
-    name: Config-Default
+    name: UPDATED-NAME
 server:
-  port: 7092
+  port: 7090
 eureka:
   instance:
     prefer-ip-address: true
